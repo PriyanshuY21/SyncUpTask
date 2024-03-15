@@ -99,7 +99,7 @@ class _CustomFeedScreenState extends State<CustomFeedScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'CustomGram',
+          'AppName',
           style: TextStyle(
             fontFamily: 'Billabong',
             fontSize: 32,
